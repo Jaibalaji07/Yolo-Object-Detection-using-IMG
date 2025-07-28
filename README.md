@@ -1,7 +1,7 @@
 # yolo_objectDetection_imagesCPU
 YOLO Object Detection on Images on a CPU
 
-his project implements robust object detection on images using the YOLOv3 (You Only Look Once) deep learning model with OpenCV. It features a ready-to-use Python script that detects and labels multiple common object classes—such as people, vehicles, animals, household items, and more—in provided images. The system includes:
+This project implements robust object detection on images using the YOLOv3 (You Only Look Once) deep learning model with OpenCV. It features a ready-to-use Python script that detects and labels multiple common object classes—such as people, vehicles, animals, household items, and more—in provided images. The system includes:
 
 Automatic detection and labeling of 80 everyday object types (as defined by the COCO dataset and .names file).
 
