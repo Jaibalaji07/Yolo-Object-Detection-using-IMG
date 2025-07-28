@@ -16,4 +16,3 @@ Detection summary in the console: The script prints a count of every distinct ob
 Flexible file support: Easily swap in other YOLO .cfg, .weights, and .names files to recognize new objects from different datasets or custom models.
 
 Robust compatibility: Handles variations in OpenCV output, preventing common errors across OpenCV versions.
->>>>>>> 485f116aab6b12c687063ad278dd3647358bfa3c
